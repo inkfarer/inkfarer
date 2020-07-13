@@ -1,4 +1,4 @@
-![Logo](inkybanner.png)
+![Logo](https://raw.githubusercontent.com/inkfarer/inkfarer/master/inkybanner.png)
 
 <p align="center">
   <b>Hello!</b>
