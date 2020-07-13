@@ -1,4 +1,16 @@
-### Hi there 👋
+![Logo](inkybanner.png)
+
+<p align="center">
+  <b>Hello!</b>
+</a>
+
+<p align="center">
+  <a href="https://inkfarer.com">Website!</a>
+  |
+  <a href="https://twitter.com/inkfarer">Twitter</a>
+  |
+  <a href="https://www.twitch.tv/inkfarer">Twitch</a>
+</p>
 
 <!--
 **inkfarer/inkfarer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
