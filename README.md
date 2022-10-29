@@ -12,6 +12,10 @@
   <a href="https://www.twitch.tv/inkfarer">Twitch</a>
 </p>
 
+<p align="center">
+  <sub>Profile image by <a href="https://twitter.com/starbiit">Starbiit</a></sub>
+</p>
+
 <!--
 **inkfarer/inkfarer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
