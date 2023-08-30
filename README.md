@@ -5,11 +5,7 @@
 </a>
 
 <p align="center">
-  <a href="https://inkfarer.com">Website!</a>
-  |
-  <a href="https://twitter.com/inkfarer">Twitter</a>
-  |
-  <a href="https://www.twitch.tv/inkfarer">Twitch</a>
+  I work on broadcasting tech for <a href="https://github.com/IPLSplatoon">Inkling Performance Labs</a>, and many other things.
 </p>
 
 <p align="center">
