@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <sub>Profile image by <a href="https://twitter.com/starbiit">Starbiit</a></sub>
+  <sub>Profile image by <a href="https://starbiit.carrd.co">Starbiit</a></sub>
 </p>
 
 <!--
