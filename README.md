@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <sub><a href="https://starbiit.carrd.co">Click to ponder my website</a></sub>
+  <sub><a href="https://inkfarer.com">Click to ponder my website</a></sub>
 </p>
 
 <!--
